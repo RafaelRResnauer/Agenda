@@ -1,16 +1,3 @@
-/*
- * Sistemas Operacionais
- * CCET - PUCPR
- * Prof. Luiz Lima Jr.
- *
- * PERSISTENCIA (Sistemas de Arquivos)
- * Agenda de nomes - aniversários - telefones
- *
- * O programa abaixo não é persistente (isto é, não armazena os dados da
- * agenda lidos do usuário). Altere-o de forma a torná-lo persistente.
- *
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
