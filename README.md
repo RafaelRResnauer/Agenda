@@ -1,2 +1,2 @@
-# Agenda
-An agenda that saves contacts
+# Contacts
+A small software that saves contacts
